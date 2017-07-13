@@ -21,24 +21,28 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Books](#books)
 - [Content Management System](#content-management-system)
 - [Databases](#databases)
+- [Dotfiles](dotfiles.md)
 - [Framework](#framework)
 - [Front-end Development](#front-end-development)
 - [Game](#game)
 - [GO](#go)
 - [JavaScript](#javascript)
+    - [Angular](#angular)
+    - [Express](#express)
+    - [Vue](#vue)
 - [Jekyll Theme](#jekyll-theme)
 - [Learn](#learn)
+- [Linux Software](#linux-software)
 - [PHP](#php)
-	- [CodeIgniter](#codeigniter)
-	- [Laravel](#laravel)
-	- [Slim](#slim)
-	- [Symfony](#symfony)
-	- [Yii](#yii)
+    - [CodeIgniter](#codeigniter)
+    - [Laravel](#laravel)
+    - [Slim](#slim)
+    - [Symfony](#symfony)
+    - [Yii](#yii)
 - [Plugin](#plugin)
 - [Python](#python)
 - [Natural Language Processing](#natural-language-processing)
 - [Miscellaneous](#miscellaneous)
-    - [dotfiles](dotfiles.md)
 - [Community](#community)
 
 
@@ -58,6 +62,9 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [CafeBar](https://github.com/danimahardhika/cafebar) - An upgraded Snackbar for Android that provides more options and easy to use.
 - [CandyBar](https://github.com/danimahardhika/candybar-library) - Android icon pack dashboard library.
 - [WallpaperBoard](https://github.com/danimahardhika/wallpaperboard) - Android wallpaper dashboard library.
+- [Nike+ Running - React Native](https://github.com/sonnylazuardi/react-native-nike-running) - UI & UX Prototype of redesigned Nike+ Running App.
+- [Subtitle CollapsingToolbarLayout](https://github.com/HendraAnggrian/collapsingtoolbarlayout-subtitle) - Standard CollapsingToolbarLayout with subtitle support.
+
 
 ## Books
 
@@ -108,6 +115,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
 - [unzipall](https://github.com/gedex/unzipall) - Unzip all zip files in src directory to dst directory.
 - [Inflector](https://github.com/gedex/inflector) - Inflector pluralizes and singularizes English nouns.
+- [Snowboard](https://github.com/bukalapak/snowboard) - API blueprint parser and renderer.
 
 
 ## JavaScript
@@ -118,18 +126,41 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Meteoris2](https://github.com/radiegtya/meteoris2) - Realtime Javascript Boilerplate base on MeteorJS Framework.
 - [SimpleExcel.js](https://github.com/faisalman/simple-excel-js) - Client-side script to easily parse / convert / write any Microsoft Excel.
 - [UAParser.js](https://github.com/faisalman/ua-parser-js) - Lightweight JavaScript-based User-Agent string parser.
-- [Express4 Bootstrap Starter](https://github.com/aredo/express4-bootstrap-starter) - Lightweight Bootstrap NodeJS Apps Build Using ExpressJS 4.
 - [jQuery Awesome Sosmed Share Button](https://github.com/bachors/jQuery-Awesome-Sosmed-Share-Button) - Awesome social media button with share count.
 - [Kinetic](https://github.com/ariya/kinetic) - Kinetic Scrolling with JavaScript.
 - [Esprima](https://github.com/jquery/esprima) - ECMAScript parsing infrastructure for multipurpose analysis.
 - [PHUNT](https://github.com/Kristories/phunt) - Product Hunt Command Line Client.
-- [vuejs2 starter](https://github.com/BosNaufal/vue2-starter) - Simple Vue 2 Starter for single page application with Vuex and Vue Router.
+- [React Simple PWA](https://github.com/BosNaufal/react-simple-pwa) - Simple Progressive Web App Built with React Js.
+
+
+## Angular
+
+- [Angular Starter](https://github.com/antonybudianto/angular-starter) - Gulp Angular Starter using TypeScript.
+- [Angular Webpack Starter](https://github.com/antonybudianto/angular-webpack-starter) - Angular Webpack Starter with AoT compilation, Lazy-loading, Tree-shaking, and Hot Module Reload.
+
+
+## Express
+
+- [Express4 Bootstrap Starter](https://github.com/aredo/express4-bootstrap-starter) - Lightweight Bootstrap NodeJS Apps Build Using ExpressJS 4.
+
+
+## Vue
+
+- [Vue 2 Starter](https://github.com/BosNaufal/vue2-starter) - Simple Vue 2 Starter for single page application with Vuex and Vue Router.
+- [Vue 2 Simplert](https://github.com/mazipan/vue2-simplert) - Vue 2 Simple Alert Component (SweetAlert Inspired).
+- [Vue SoundCloud](https://github.com/mul14/vue-soundcloud) - Vuejs + SoundCloud demo app.
+- [Vue Autocomplete](https://github.com/BosNaufal/vue-autocomplete) - Autocomplete Component for Vue.js.
+- [Vue Mini Shop](https://github.com/BosNaufal/vue-mini-shop) - Mini Online Shop Built With Vue.js.
+- [Vue Loading Bar](https://github.com/BosNaufal/vue-loading-bar) - Youtube Like Loading Bar Component for Vue.js.
+- [Vue 2 Loading Bar](https://github.com/BosNaufal/vue2-loading-bar) - Simplest Youtube Like Loading Bar Component For Vue 2.
+- [Vue Simple PWA](https://github.com/BosNaufal/vue-simple-pwa) - Simple Progressive Web App Built with Vue.js.
 
 
 ## Jekyll Theme
 
 - [JekMDL](https://github.com/tigefa4u/jekmdl) - Jekyll theme use Material Design Lite.
 - [Mangan](https://github.com/dikiaap/mangan) - Geek theme for Jekyll.
+- [Stack Problem](https://github.com/agusmakmun/agusmakmun.github.io) - Free and open-source Jekyll theme.
 
 
 ## Learn
@@ -141,6 +172,14 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Ruby Basic](https://github.com/xinuc/ruby_basic) - Learning material for Ruby Programming Language, written in Bahasa Indonesia.
 - [NLP Bahasa Indonesia](https://github.com/sastrawi/nlp-bahasa-indonesia) - A curated list of Indonesian Natural Language Processing resources.
 - [Docs vuejs id](https://github.com/vuejs-id/docs)- Dokumentasi Vue.js Bahasa Indonesia.
+- [PUEBI Daring](https://github.com/ivanlanin/puebi) - PUEBI Daring adalah versi web ramah gawai dari PUEBI Permendikbud 50/2015.
+
+
+## Linux Software
+
+- [KBBI Qt](https://github.com/bgli/kbbi-qt) - KBBI Qt adalah aplikasi Kamus Besar Bahasa Indonesia berbasis GUI.
+- [Frost Plank Theme](https://github.com/dikiaap/frost-plank-theme) - Quite dark Plank theme.
+- [Blitz CLI](https://github.com/sonnylazuardi/blitz-cli) - A command line app to check cgv blitz movie seats.
 
 
 ## PHP
@@ -149,6 +188,8 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Simple PHP Excel](https://github.com/faisalman/simple-excel-php) - Easily parse / convert / write any Microsoft Excel.
 - [Membership PHP Indonesia](https://github.com/phpindonesia/phpindonesia.or.id-membership2) - Membership Application for PHP Indonesia.
 - [playCMS](https://github.com/antonraharja/playSMS) - Web-based Mobile Portal System that it can be made to fit to various services such as an SMS gateway.
+- [Terbilang](https://github.com/mul14/terbilang-php) - Convert numbers into words in Indonesian language.
+- [SLiMS 8 Akasia](https://github.com/slims/slims8_akasia) - SLiMS is free open source software for library resources management and administration.
 
 
 ## CodeIgniter
@@ -166,6 +207,8 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Laravel Circuit Breaker](https://github.com/rymanalu/laravel-circuit-breaker) - Circuit Breaker pattern implementation in Laravel 5.
 - [Laravel Simple Uploader](https://github.com/rymanalu/laravel-simple-uploader) - Simple file uploader for Laravel 5.
 - [Laravel 5 Model Factory Generator](https://github.com/rymanalu/factory-generator) - Generate a new model factory using Artisan command.
+- [Laravolt Indonesia](https://github.com/laravolt/indonesia) - Package Laravel yang berisi data Provinsi, Kabupaten/Kota, dan Kecamatan/Desa di seluruh Indonesia.
+- [Semantic Form](https://github.com/laravolt/semantic-form) - Semantic UI form builder, for Laravel.
 
 
 ## Slim
@@ -177,7 +220,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 ## Symfony
 
 - [Symfonian Indonesia AdminBundle](https://github.com/SymfonyId/AdminBundle) - Admin Bundle with Symfony Framework.
-
+- [Tania](https://github.com/Tanibox/tania) - An open source farming management system.
 
 ## Yii
 
@@ -187,11 +230,14 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 ## Plugin
 
 - [WP Slack](https://github.com/gedex/wp-slack) - This plugin allows you to send notifications to Slack channels when certain events in WordPress occur.
+- [Minimalist](https://github.com/dikiaap/minimalist) - A Material Colorscheme Darker for Vim.
 
 
 ## Python
 
 - [WordGraph](https://github.com/tistaharahap/WordGraph) - Weighting word frequency graph
+- [fasttext](https://github.com/salestock/fastText.py) - A Python interface for Facebook fastText.
+- [HSR](https://github.com/pyk/hsr) - Hand signals recognition using Convolutional Neural Network implemented in TensorFlow.
 
 
 ## Natural Language Processing
@@ -203,8 +249,8 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
 - [Mac OSX Lion Theme](https://github.com/SunDi3yansyah/mac-osx-lion-theme) - (Web) Static site theme with Mac OSX Lion style.
 - [Indonesian AdBlock Rules](https://github.com/ABPindo/indonesianadblockrules) - Compiled ABP rules to block various ads in Indonesian based site.
-- [Minimalist](https://github.com/dikiaap/minimalist) - A Material Colorscheme Darker for Vim.
 - [Indonesia on Top Regional Repositories](https://github.com/lorey/top-regional-repositories/blob/master/countries/indonesia.md) - Popular repositories in Indonesia.
+- [List of Indonesian Telegram Group](https://github.com/hendisantika/List-All-Programming-Telegram-Group) - List of All Programming Telegram Group in Indonesia.
 
 ## Community
 
