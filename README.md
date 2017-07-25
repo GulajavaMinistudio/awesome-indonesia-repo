@@ -18,6 +18,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 ## Table of Contents
 
 - [Android](#android)
+- [Awesome List](#awesome-list)
 - [Books](#books)
 - [Content Management System](#content-management-system)
 - [Databases](#databases)
@@ -57,13 +58,23 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [RxDownloader](https://github.com/esafirm/RxDownloader) - An Rx wrapper for Download Manager in Android.
 - [ImageEffectFilter](https://github.com/mnafian/ImageEffectFilter) - Android image filter processing sample using layer drawable and effect factory android.
 - [React Native Credit Card](https://github.com/sonnylazuardi/react-native-credit-card) - React native credit card display component.
-- [Android Color Picker](https://github.com/yukuku/ambilwarna) - To customize the color of some background, text, or maybe for a painting application where the user can select different colors for painting or filling.
+- [Android Color Picker](https://github.com/yukuku/ambilwarna) - To customize the color of some background, text, or maybe for a painting application.
 - [ImagePicker](https://github.com/esafirm/android-image-picker) - A configureable library to select image from gallery and camera without the hassle.
 - [CafeBar](https://github.com/danimahardhika/cafebar) - An upgraded Snackbar for Android that provides more options and easy to use.
 - [CandyBar](https://github.com/danimahardhika/candybar-library) - Android icon pack dashboard library.
 - [WallpaperBoard](https://github.com/danimahardhika/wallpaperboard) - Android wallpaper dashboard library.
 - [Nike+ Running - React Native](https://github.com/sonnylazuardi/react-native-nike-running) - UI & UX Prototype of redesigned Nike+ Running App.
 - [Subtitle CollapsingToolbarLayout](https://github.com/HendraAnggrian/collapsingtoolbarlayout-subtitle) - Standard CollapsingToolbarLayout with subtitle support.
+
+
+## Awesome List
+
+- [Awesome Indonesia Repo](https://github.com/GitIndonesia/awesome-indonesia-repo) - A curated list of amazingly awesome repository created by Indonesian people.
+- [Awesome CodeIgniter](https://github.com/codeigniter-id/awesome-codeigniter) - A list of awesome CodeIgniter core, helpers, hooks, language, libraries, and third party.
+- [Engineering Blogs](https://github.com/sumodirjo/engineering-blogs) - A curated list of engineering blog of startup and enterprise company.
+- [NLP Bahasa Indonesia](https://github.com/sastrawi/nlp-bahasa-indonesia) - A curated list of Indonesian Natural Language Processing resources.
+- [Awesome Indonesia Telegram Groups](https://github.com/hendisantika/List-All-Programming-Telegram-Group) - List of All Programming Telegram Group in Indonesia.
+- [Awesome Guidelines](https://github.com/Kristories/awesome-guidelines) - A curated list of high quality coding style conventions and standards.
 
 
 ## Books
@@ -93,7 +104,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
 - [Panada](https://github.com/panada/Panada) - High performance PHP development framework, yet simple.
 - [Puko](https://github.com/Velliz/puko) - MVC Framework for quick and fast PHP Application Development.
-- [IGOS Nusantara Software Development Kit](https://github.com/ignsdk/ignsdk-qt) - A software development kit designed specifically for application developers in IGOS Nusantara.
+- [IGOS Nusantara SDK](https://github.com/ignsdk/ignsdk-qt) - A SDK designed specifically for application developers in IGOS Nusantara.
 - [EmeraldBox](https://github.com/femmerling/EmeraldBox) - EmeraldBox is a boilerplate framework for developing python web applications with database access.
 
 
@@ -108,7 +119,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 ## Game
 
 - [Word Chain](https://github.com/sonnylazuardi/wordchain) - Multiplayer word chaining game using AngularJS and firebase.
-- [KatanyaGomoku](https://github.com/mgilangjanuar/KatanyaGomoku) - Modification Game of Tic Tac Toe using Java Languange
+- [KatanyaGomoku](https://github.com/mgilangjanuar/KatanyaGomoku) - Modification Game of Tic Tac Toe using Java Languange.
 
 
 ## Go
@@ -154,6 +165,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Vue Loading Bar](https://github.com/BosNaufal/vue-loading-bar) - Youtube Like Loading Bar Component for Vue.js.
 - [Vue 2 Loading Bar](https://github.com/BosNaufal/vue2-loading-bar) - Simplest Youtube Like Loading Bar Component For Vue 2.
 - [Vue Simple PWA](https://github.com/BosNaufal/vue-simple-pwa) - Simple Progressive Web App Built with Vue.js.
+- [Explore GitHub](https://github.com/mazipan/explore-github) - VueJS 2 GitHub Explorer Using API v3.
 
 
 ## Jekyll Theme
@@ -165,13 +177,9 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
 ## Learn
 
-- [Awesome CodeIgniter](https://github.com/codeigniter-id/awesome-codeigniter) - A list of awesome CodeIgniter.
 - [Belajar Git](https://github.com/endymuhardin/belajarGit) - Tutorial Git dalam Bahasa Indonesia.
-- [Awesome Indonesia Repo](https://github.com/GitIndonesia/awesome-indonesia-repo) - A curated list of amazingly awesome repository created by Indonesian people.
-- [Engineering Blogs](https://github.com/sumodirjo/engineering-blogs) - A curated list of engineering blog of startup and enterprise company.
 - [Ruby Basic](https://github.com/xinuc/ruby_basic) - Learning material for Ruby Programming Language, written in Bahasa Indonesia.
-- [NLP Bahasa Indonesia](https://github.com/sastrawi/nlp-bahasa-indonesia) - A curated list of Indonesian Natural Language Processing resources.
-- [Docs vuejs id](https://github.com/vuejs-id/docs)- Dokumentasi Vue.js Bahasa Indonesia.
+- [Docs vuejs id](https://github.com/vuejs-id/docs) - Dokumentasi Vue.js Bahasa Indonesia.
 - [PUEBI Daring](https://github.com/ivanlanin/puebi) - PUEBI Daring adalah versi web ramah gawai dari PUEBI Permendikbud 50/2015.
 
 
@@ -207,7 +215,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Laravel Circuit Breaker](https://github.com/rymanalu/laravel-circuit-breaker) - Circuit Breaker pattern implementation in Laravel 5.
 - [Laravel Simple Uploader](https://github.com/rymanalu/laravel-simple-uploader) - Simple file uploader for Laravel 5.
 - [Laravel 5 Model Factory Generator](https://github.com/rymanalu/factory-generator) - Generate a new model factory using Artisan command.
-- [Laravolt Indonesia](https://github.com/laravolt/indonesia) - Package Laravel yang berisi data Provinsi, Kabupaten/Kota, dan Kecamatan/Desa di seluruh Indonesia.
+- [Laravolt Indonesia](https://github.com/laravolt/indonesia) - Package Laravel yang berisi data Provinsi, Kabupaten/Kota, dan Kecamatan/Desa di Indonesia.
 - [Semantic Form](https://github.com/laravolt/semantic-form) - Semantic UI form builder, for Laravel.
 
 
@@ -235,7 +243,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
 ## Python
 
-- [WordGraph](https://github.com/tistaharahap/WordGraph) - Weighting word frequency graph
+- [WordGraph](https://github.com/tistaharahap/WordGraph) - Weighting word frequency graph.
 - [fasttext](https://github.com/salestock/fastText.py) - A Python interface for Facebook fastText.
 - [HSR](https://github.com/pyk/hsr) - Hand signals recognition using Convolutional Neural Network implemented in TensorFlow.
 
@@ -250,7 +258,6 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Mac OSX Lion Theme](https://github.com/SunDi3yansyah/mac-osx-lion-theme) - (Web) Static site theme with Mac OSX Lion style.
 - [Indonesian AdBlock Rules](https://github.com/ABPindo/indonesianadblockrules) - Compiled ABP rules to block various ads in Indonesian based site.
 - [Indonesia on Top Regional Repositories](https://github.com/lorey/top-regional-repositories/blob/master/countries/indonesia.md) - Popular repositories in Indonesia.
-- [List of Indonesian Telegram Group](https://github.com/hendisantika/List-All-Programming-Telegram-Group) - List of All Programming Telegram Group in Indonesia.
 
 ## Community
 
