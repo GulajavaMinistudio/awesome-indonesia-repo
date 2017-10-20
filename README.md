@@ -42,6 +42,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
     - [Yii](#yii)
 - [Plugin](#plugin)
 - [Python](#python)
+- [R](#R)
 - [Natural Language Processing](#natural-language-processing)
 - [Miscellaneous](#miscellaneous)
 - [Community](#community)
@@ -145,6 +146,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [PHUNT](https://github.com/Kristories/phunt) - Product Hunt Command Line Client.
 - [React Simple PWA](https://github.com/BosNaufal/react-simple-pwa) - Simple Progressive Web App Built with React Js.
 - [Soya Next](https://github.com/traveloka/soya-next) - An opinionated configured Next.js framework.
+- [Angkot](https://github.com/widatama/angkot) - A searchable Jakarta’s public transportation routes.
 
 
 ## Angular
@@ -169,6 +171,8 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Vue 2 Loading Bar](https://github.com/BosNaufal/vue2-loading-bar) - Simplest Youtube Like Loading Bar Component For Vue 2.
 - [Vue Simple PWA](https://github.com/BosNaufal/vue-simple-pwa) - Simple Progressive Web App Built with Vue.js.
 - [Explore GitHub](https://github.com/mazipan/explore-github) - VueJS 2 GitHub Explorer Using API v3.
+- [Salat Time](https://github.com/widatama/salat-time) - Location based daily salat schedule.
+- [Tic Tac Vue](https://github.com/widatama/tic-tac-vue) - Tic tac toe game implemented with Vue.js.
 
 
 ## Jekyll Theme
@@ -191,6 +195,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [KBBI Qt](https://github.com/bgli/kbbi-qt) - KBBI Qt adalah aplikasi Kamus Besar Bahasa Indonesia berbasis GUI.
 - [Frost Plank Theme](https://github.com/dikiaap/frost-plank-theme) - Quite dark Plank theme.
 - [Blitz CLI](https://github.com/sonnylazuardi/blitz-cli) - A command line app to check cgv blitz movie seats.
+- [Manokwari](https://github.com/BlankOn/manokwari) - A desktop shell for GNOME 3 with GTK+ and HTML5 frontend.
 
 
 ## PHP
@@ -251,6 +256,11 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [WordGraph](https://github.com/tistaharahap/WordGraph) - Weighting word frequency graph.
 - [fasttext](https://github.com/salestock/fastText.py) - A Python interface for Facebook fastText.
 - [HSR](https://github.com/pyk/hsr) - Hand signals recognition using Convolutional Neural Network implemented in TensorFlow.
+
+
+# R
+
+- [KalkulatorPajak](https://github.com/yht/KalkulatorPajak) - Indonesian Tax Calculator
 
 
 ## Natural Language Processing
