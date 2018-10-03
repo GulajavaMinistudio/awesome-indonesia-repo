@@ -130,7 +130,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [unzipall](https://github.com/gedex/unzipall) - Unzip all zip files in src directory to dst directory.
 - [Inflector](https://github.com/gedex/inflector) - Inflector pluralizes and singularizes English nouns.
 - [Snowboard](https://github.com/bukalapak/snowboard) - API blueprint parser and renderer.
-
+- [Shiori](https://github.com/RadhiFadlillah/shiori) - Simple bookmark manager built with Go.
 
 ## JavaScript
 
@@ -148,7 +148,8 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Soya Next](https://github.com/traveloka/soya-next) - An opinionated configured Next.js framework.
 - [Angkot](https://github.com/widatama/angkot) - A searchable Jakarta’s public transportation routes.
 - [Iyem](https://github.com/lukluk/iyem) - Simple implementation multi thread in nodejs
-
+- [react-electron-starter](https://github.com/hikmahgumelar/react-electron-starter) - A starter for create apps with Electron and ReactJS
+- [cra-universal](https://github.com/antonybudianto/cra-universal) - Create React App companion for universal app. No eject, zero config, full HMR, and more
 
 ## Angular
 
@@ -213,6 +214,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
 - [Gas ORM](https://github.com/toopay/gas-orm) - A lighweight and easy-to-use ORM for CodeIgniter.
 - [SunQA](https://github.com/SunDi3yansyah/SunQA) - Simple App Question Answer like Stackoverflow.
+- [CodeIgniter Websocket Apache Secure](https://github.com/aacassandra/CodeIgniter-Websocket-Apache-Secure) - Combination of CodeIgniter + Ratchet Websocket with Secure Connection.
 
 
 ## Laravel
@@ -250,6 +252,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
 - [WP Slack](https://github.com/gedex/wp-slack) - This plugin allows you to send notifications to Slack channels when certain events in WordPress occur.
 - [Minimalist](https://github.com/dikiaap/minimalist) - A Material Colorscheme Darker for Vim.
+- [mpv-discordRPC](https://github.com/noaione/mpv-discordRPC) - A mpv media player lua script for Discord RPC integration
 
 
 ## Python
@@ -275,6 +278,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Indonesian AdBlock Rules](https://github.com/ABPindo/indonesianadblockrules) - Compiled ABP rules to block various ads in Indonesian based site.
 - [Indonesia on Top Regional Repositories](https://github.com/lorey/top-regional-repositories/blob/master/countries/indonesia.md) - Popular repositories in Indonesia.
 - [Topojson of Indonesia](https://github.com/tvalentius/Indonesia-topojson) - TopoJSON of Indonesia (Kota/Kabupaten Level), useful for data visualisation.
+- [Unblock host ID](https://github.com/gvoze32/unblockhostid) - Script ini dapat membantu anda untuk bypass semua konten website yang diblokir Internet Positif melalui file hosts tanpa harus menggunakan vpn.
 
 ## Community
 
