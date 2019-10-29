@@ -70,6 +70,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Subtitle CollapsingToolbarLayout](https://github.com/HendraAnggrian/collapsingtoolbarlayout-subtitle) - Standard CollapsingToolbarLayout with subtitle support.
 - [Benih](https://github.com/zetbaitsu/Benih) - A standard template for Android apps by Zelory
 - [YuanaItemSettingView](https://github.com/andhikayuana/YuanaItemSettingView) - Customizable Item Setting View for Android
+- [DraggableView](https://github.com/hyuwah/DraggableView) - Android library to easily make floating draggable view (like Tokopedia's lucky egg or Bukalapak's maudikode).
 
 ## Awesome List
 
@@ -186,6 +187,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Explore GitHub](https://github.com/mazipan/explore-github) - VueJS 2 GitHub Explorer Using API v3.
 - [Salat Time](https://github.com/widatama/salat-time) - Location based daily salat schedule.
 - [Tic Tac Vue](https://github.com/widatama/tic-tac-vue) - Tic tac toe game implemented with Vue.js.
+- [Guess the Number](https://github.com/widatama/guess-the-number) - A single player guess the number game made with Vue.js.
 
 ## Gridsome Starter
 
