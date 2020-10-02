@@ -28,11 +28,14 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
   - [Front-end Development](#front-end-development)
   - [Game](#game)
   - [Go](#go)
+  - [Haskell](#haskell)
+  - [Rust](#rust)
   - [JavaScript](#javascript)
   - [Java](#java)
   - [Angular](#angular)
   - [Express](#express)
   - [Vue](#vue)
+  - [Gridsome Starter](#gridsome-starter)
   - [Jekyll Theme](#jekyll-theme)
   - [Learn](#learn)
   - [Linux Software](#linux-software)
@@ -71,6 +74,8 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Benih](https://github.com/zetbaitsu/Benih) - A standard template for Android apps by Zelory
 - [YuanaItemSettingView](https://github.com/andhikayuana/YuanaItemSettingView) - Customizable Item Setting View for Android
 - [DraggableView](https://github.com/hyuwah/DraggableView) - Android library to easily make floating draggable view (like Tokopedia's lucky egg or Bukalapak's maudikode).
+- [Android Image Picker](https://github.com/WendyYanto/android-image-picker) - Non-blocking image gallery library built using kotlin and coroutine to help user to choose image (single or multi)
+- [TicTacToe](https://github.com/WendyYanto/android-tic-tac-toe) - Android tictactoe game built using kotlin
 
 ## Awesome List
 
@@ -80,6 +85,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [NLP Bahasa Indonesia](https://github.com/sastrawi/nlp-bahasa-indonesia) - A curated list of Indonesian Natural Language Processing resources.
 - [Awesome Indonesia Telegram Groups](https://github.com/hendisantika/List-All-Programming-Telegram-Group) - List of All Programming Telegram Group in Indonesia.
 - [Awesome Guidelines](https://github.com/Kristories/awesome-guidelines) - A curated list of high quality coding style conventions and standards.
+- [Belajar ngoding dalam bahasa Indonesia](https://github.com/amuritna/belajar-ngoding-bhs-indo) - A list of Indonesian resources for learning to code.
 
 ## Books
 
@@ -94,7 +100,6 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Pusaka CMS](https://github.com/codepolitanlab/pusakacms) - File-based CMS build with CodeIgniter Framework.
 - [Elybin CMS](https://github.com/elybin/ElybinCMS) - Sistem manajemen konten gratis yang berfokus kepada kegunaan, kecepatan, dan kemudahan.
 - [Fiyo CMS](https://github.com/FiyoCMS/FiyoCMS) - CMS Open Source with Easy Design, Fast Load, and SEO Friendly.
-- [Wayang CMS](https://github.com/Wayang-CMS/WayangCMS) - Wayang CMS is Open Source CMS made in Indonesia.
 - [HTMLy](https://github.com/danpros/htmly) - HTMLy is an Databaseless or Flat-File Blogging Platform prioritizes simplicity and speed written in PHP.
 - [PopojiCMS](https://github.com/PopojiCMS/PopojiCMS) - Buat Sendiri Rasa Webmu.
 
@@ -118,6 +123,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Marka](https://github.com/fians/marka) - Beautiful transformable icons built for the web.
 - [Waves](https://github.com/fians/Waves) - Click effect inspired by Google's Material Design.
 - [React Komik](https://github.com/sonnylazuardi/react-komik) - ReactJS based comic strip creator using fabric.js canvas rendering.
+- [Stisla](https://github.com/stisla/stisla) - A Free Bootstrap Admin Template which will help you to speed up your project and design your own dashboard UI
 
 ## Game
 
@@ -130,11 +136,22 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Inflector](https://github.com/gedex/inflector) - Inflector pluralizes and singularizes English nouns.
 - [Imaginative Go](https://github.com/sonyarianto/imaginative-go) - Web to learn Go.
 - [Snowboard](https://github.com/bukalapak/snowboard) - API blueprint parser and renderer.
-- [Shiori](https://github.com/RadhiFadlillah/shiori) - Simple bookmark manager built with Go.
-- [Proctor](https://github.com/gojektech/proctor) - A Developer-Friendly Automation Orchestrator.
+- [Shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go.
+- [Proctor](https://github.com/gojek/proctor) - A Developer-Friendly Automation Orchestrator.
+- [GoTral](https://github.com/codenoid/GoTral) - Go cenTralized config, for distributed software
+- [File.io Clone](https://github.com/codenoid/file.io) - File.io clone, file sharing with expiration
+
+## Haskell
+
+- [juancuk-hs](https://github.com/bejoistic/juancuk-hs) - Onion vanity URL generator written in Haskell
+- [blockell](https://github.com/bejoistic/blockell) - Experimental blockchain implementation using Haskell
+
+## Rust
+
+- [Fido](https://github.com/codenoid/Fido) - Distributed Storage, Easily distribute your data accross disk/node
 
 ## JavaScript
-
+- [PandaJS](https://github.com/rizki4106/pandajs) - pandajs is a library for create REST SERVER
 - [PhantomJS](https://github.com/ariya/phantomjs) - Scriptable Headless WebKit.
 - [jQuery Calx](https://github.com/xsanisty/jquery-calx) - jQuery plugin for creating formula-based calculation.
 - [JVFloat.js](https://github.com/maman/JVFloat.js) - jQuery / Zepto plugin to emulate Matt D. Smith's floating placeholder text.
@@ -157,8 +174,10 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Serberries](https://github.com/ScarletsFiction/Serberries) - Nodejs live webserver that able to reload your script when running.
 - [SFFileSystem](https://github.com/ScarletsFiction/SFFileSystem) - A filesystem library for saving files inside the browser storage.
 - [SFIntercom](https://github.com/ScarletsFiction/SFIntercom) - Communication between browser's tabs with same domain.
-- [YouTube Musical Spectrum](https://github.com/mfcc64/youtube-musical-spectrum) - A Chrome extension that offers audio visualization on your YouTube page with nice musical notes.
+- [YouTube Musical Spectrum](https://github.com/mfcc64/youtube-musical-spectrum) - A browser extension that offers audio visualization on your YouTube page with nice musical notes.
 - [Simple Web Storage](https://github.com/sutanlab/simple-webstorage) - Lightweight utilities that can make easier to access application storage in client browser.
+- [Museum Indonesia CLI](https://github.com/maulana20/museum-id) - Open source Show Data Museum in Indonesia via Command-CLI.
+- [Data Wilayah](https://github.com/codenoid/Data-Wilayah.js) - Indonesia territory data in Javascript, so you don't backend/database
 
 ## Java
 
@@ -191,13 +210,12 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
 ## Gridsome Starter
 
-- [Gridsome Tailwind Starter](https://github.com/bogordesaincom/gridsome-tailwindcss-starter) - Gridsome Starter with Tailwindcss Integration :wave: .
-
 
 ## Jekyll Theme
 
 - [JekMDL](https://github.com/tigefa4u/jekmdl) - Jekyll theme use Material Design Lite.
 - [Mangan](https://github.com/dikiaap/mangan) - Geek theme for Jekyll.
+- [Jekyll Klisé](https://github.com/piharpi/jekyll-klise) - Theme for running a personal site or blog, light and dark mode support.
 - [Stack Problem](https://github.com/agusmakmun/agusmakmun.github.io) - Free and open-source Jekyll theme.
 - [Jekyll Starter Blog](https://github.com/sutanlab/jekyll-starter-blog) - Awesome and Beautiful Jekyll Starter kit.
 
@@ -229,6 +247,8 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [cURL Lib](https://github.com/andhikayuana/curl-lib) - Simple Wrapper for cURL
 - [ovoid](https://github.com/lintangtimur/ovoid) - Unofficial OVO API Wrapper
 - [MIKHMON - MikroTik Hotspot Monitor](https://github.com/laksa19/mikhmonv3)- MikroTik Hotspot Monitor adalah aplikasi berbasis web (MikroTik API PHP class) untuk membantu manajemen Hotspot MikroTik. Khususnya MikroTik yang tidak mendukung User Manager.
+- [Pub/Sub Redis for PHP](https://github.com/RioRizkyRainey/pubsub-redis-php) - Implementasi Publisher-Subscriber Pattern pada PHP menggunakan Redis
+- [PHP-Spellchecker](https://github.com/RioRizkyRainey/PHP-Spellchecker) - Spellchecker atau Typo detector menggunakan PHP. Tersedia juga assets dictionary untuk Bahasa Indonesia
 
 ## CodeIgniter
 
@@ -249,7 +269,9 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Semantic Form](https://github.com/laravolt/semantic-form) - Semantic UI form builder, for Laravel.
 - [CRUD Booster](https://github.com/crocodic-studio/crudbooster) - Easy Admin Dashboard & CRUD generator for Laravel.
 - [Dokularavel](https://github.com/crocodic-studio/dokularavel) - DOKU Payment Gateway Library for Laravel.
-- [Free PMO](https://github.com/andriawan/free-pmo) - Project management software for freelancers or agencies, built with Laravel 5.
+- [Free PMO](https://github.com/nafiesl/free-pmo) - Project management software for freelancers or agencies, built with Laravel 5.
+- [LaraCed (Laravel Creator-Editor-Destroyer)](https://github.com/RioRizkyRainey/LaraCed) - This package automatically inserts/updates creator, editor and destroyer on your table migrations.
+- [Indoregion](https://github.com/azishapidin/indoregion) - Package Data Provinsi, Kabupaten/Kota, Kecamatan/Distrik dan Desa/Kelurahan di Indonesia.
 
 ## Slim
 
@@ -277,6 +299,9 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [fasttext](https://github.com/salestock/fastText.py) - A Python interface for Facebook fastText.
 - [HSR](https://github.com/pyk/hsr) - Hand signals recognition using Convolutional Neural Network implemented in TensorFlow.
 - [KBBI Python](https://github.com/laymonage/kbbi-python) - Modul Python untuk mengambil entri sebuah kata/frase dalam KBBI Daring.
+- [Excel2api](https://github.com/FerdinaKusumah/excel2api) - Convert your excel data as api.
+- [Simple Face Recognition](https://github.com/FerdinaKusumah/face-recognition-webservice) - Simple face recognition with example.
+- [Corona data api](https://github.com/FerdinaKusumah/corona-api) - Corona data api with realtime data.
 
 # R
 
@@ -294,7 +319,6 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Indonesian AdBlock Rules](https://github.com/ABPindo/indonesianadblockrules) - Compiled ABP rules to block various ads in Indonesian based site.
 - [Indonesia on Top Regional Repositories](https://github.com/lorey/top-regional-repositories/blob/master/countries/indonesia.md) - Popular repositories in Indonesia.
 - [Topojson of Indonesia](https://github.com/tvalentius/Indonesia-topojson) - TopoJSON of Indonesia (Kota/Kabupaten Level), useful for data visualisation.
-- [Unblock host ID](https://github.com/gvoze32/unblockhostid) - Script ini dapat membantu anda untuk bypass semua konten website yang diblokir Internet Positif melalui file hosts tanpa harus menggunakan vpn.
 - [OpenRetail](https://github.com/rudi-krsoftware/open-retail) - Perangkat lunak open source yang dikembangkan khusus untuk bidang usaha ritel, grosir, toko bangunan, toko komputer, toko buku, counter hp, pos, point of sale, kasir dan bidang usaha lainnya yang sejenis.
 
 ## Community
@@ -321,10 +345,12 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Lombokdev](https://github.com/LombokDev)
 - [Lombokjs](https://github.com/lombokjs)
 - [JemberDev](https://github.com/jember-dev)
+- [Banyuwangi Dev](https://github.com/banyuwangidev)
 - [Data Science Indonesia](https://github.com/datascienceid)
 - [Kalimantan Selatan Javascript User Group](https://github.com/KalselJS)
 - [BekasiJS](https://github.com/bekasijs)
 - [SurabayaJS](https://github.com/SurabayaJS)
+- [ReversingID](https://github.com/ReversingID)
 
 ## License
 
